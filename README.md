@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hello! I'm Vesa Lehtinen
 
-<!--
-**Vesa6/Vesa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🖥️ **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Occupation:** Embedded Software Trainee at MediaTek Wireless Finland
+- **Education:** Master of Information Processing Science (expected June 2024) at the University of Oulu. I'm set to graduate in 3 years instead of the typical 5.
+
+#### 🌐 **Connect With Me**
+
+I’m always excited to discuss cool projects and potential opportunities in the industry. Feel free to reach out!
+
+- **LinkedIn:** https://www.linkedin.com/in/vesa-lehtinen7/
+- 📧 **Email:** vesa.lehtinen7@gmail.com
+
