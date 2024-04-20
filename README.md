@@ -2,10 +2,10 @@
 
 ---
 
-#### 🖥️ **About Me**
+#### **About Me**
 
-- **Occupation:** Embedded Software Trainee at MediaTek Wireless Finland
-- **Education:** Master of Information Processing Science (expected June 2024) at the University of Oulu. I'm set to graduate in 3 years instead of the typical 5.
+- **🖥️Occupation:** Embedded Software Trainee at MediaTek Wireless Finland
+- **🎓Education:** Master of Information Processing Science (expected June 2024) at the University of Oulu. I'm set to graduate in 3 years instead of the typical 5.
 
 #### 🌐 **Connect With Me**
 
